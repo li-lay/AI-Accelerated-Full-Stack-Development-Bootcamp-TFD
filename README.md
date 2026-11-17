@@ -1,7 +1,7 @@
-# Exercises & Projects
+# AI-Accelerated Full-Stack Development Bootcamp TFD
 
-A personal collection of web development exercises and mini-projects.
+Course exercises and projects from the AI-Accelerated Full-Stack Development Bootcamp (TFD).
 
-## Table of Contents
+## Exercises
 
 - [Week2 D4 - Expense Tracker](./week2-d4-expense-tracker/index.html) — Dynamic balance calculation, transaction list rendering, and form submission using Vanilla JavaScript.
