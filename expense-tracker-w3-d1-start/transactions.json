@@ -1,0 +1,6 @@
+[
+  { "id": 1, "note": "Salary", "category": "Income", "type": "income", "amountCents": 30000 },
+  { "id": 2, "note": "Lunch", "category": "Food", "type": "expense", "amountCents": 450 },
+  { "id": 3, "note": "Bus", "category": "Transport", "type": "expense", "amountCents": 150 },
+  { "id": 4, "note": "Notebook", "category": "Study", "type": "expense", "amountCents": 300 }
+]
